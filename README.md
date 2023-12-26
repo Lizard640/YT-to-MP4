@@ -1,1 +1,1 @@
-This project was made using Tkinter and Python
+This project was made using Tkinter, customtkinter and Python
